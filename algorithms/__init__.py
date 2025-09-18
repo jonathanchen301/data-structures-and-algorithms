@@ -1,0 +1,3 @@
+"""
+Simple algorithms collection.
+"""
